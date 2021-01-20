@@ -5,12 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Some information about me!
+# Some information about me!
 
-### More Information
-
-i studying computer engineering at sadjad university of technology
-razavi khorasan province,iran.
+I am studying for a bachelor's degree in computer engineering at Sajjad University of Technology in Mashhad, Iran
 
 ### Contact me
 
