@@ -7,7 +7,7 @@ published: true
 
 # Some information about me!
 
-I am studying for a bachelor's degree in computer engineering at Sajjad University of Technology in Mashhad, Iran
+I am studying for a bachelor's degree in computer engineering at Sajjad University of Technology in Mashhad, Iran.
 
 ### Contact me
 
